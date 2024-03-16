@@ -1,0 +1,28 @@
+{
+  "name": "Mister-tea",
+  "version": "1.0.0",
+  "description": "Cuma Kalkulator Buat Penghitungan Sederhana",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cihuy20/Kalkulator-sederhana"
+  },
+
+  "keywords": [
+    "Kalkulator",
+    "Penghitungan",
+    "Pengurangan",
+    "Pembagian",
+    "Pengkalian"
+  ],
+
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "check-gempa": "^1.0.0",
+    "conver-currency": "^0.1.0"
+  }
+}
